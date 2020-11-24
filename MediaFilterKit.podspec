@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "MediaFilterKit"
-  spec.version      = "0.1"
+  spec.version      = "0.11"
   spec.license      = "MIT"
   spec.summary      = "A swift library for wrapping and applying core image filters to a image or audiovisual asset."
   spec.homepage     = "https://github.com/appoly/MediaFilterKit"
