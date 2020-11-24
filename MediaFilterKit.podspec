@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   spec.summary      = "A swift library for wrapping and applying core image filters to a image or audiovisual asset."
   spec.homepage     = "https://github.com/appoly/MediaFilterKit"
   spec.authors = "James Wolfe"
-  spec.source = { :git => 'https://github.com/appoly/PassportKit.git', :tag => spec.version }
+  spec.source = { :git => 'https://github.com/appoly/MediaFilterKit.git', :tag => spec.version }
 
   spec.ios.deployment_target = "9.0"
   spec.framework = "UIKit"
